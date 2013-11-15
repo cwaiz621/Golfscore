@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GolfScore</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Golf Score</string>
+    <string name="OK">OK</string>
+    <string name="Score">Score</string>
+    <string name="ScoreText">Score card info goes here</string>
+
+</resources>
